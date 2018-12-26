@@ -1,21 +1,5 @@
-vue好用的插件
-- ：[]()
-- ：[]()
-- ：[]()
-- ：[]()
-- ：[]()
-- ：[]()
+react好用的库
+- [react-transition-group](https://github.com/nitin42/animate-components "react-transition-group") ：类似animate.css的动画库([demo](http://animate-components.surge.sh/demo "demo"))
 
 
-移动端
-
-
-
-图表
-- vue-chartjs：[https://github.com/apertureless/vue-chartjs](vue封装chart.js)
-- ：[]()
-- ：[]()
-- ：[]()
-
-
-cr https://github.com/vuejs/awesome-vue
+- []() ：
